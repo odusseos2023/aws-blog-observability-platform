@@ -132,7 +132,6 @@ metadata:
     k8s-app: fluent-bit-logging
     version: v1
     kubernetes.io/cluster-service: "true"
-
 spec:
   selector:
     matchLabels:
